@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module", 
- /*  "homepage": "https://ehaedo.github.io/FullStack_UTN_HaedoE/", */
+ "homepage": "https://verobaires.github.io/harry-potter-EmHaedo/", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
